@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* Currently DL Framework
+* Previously AI Inference
+* Interested in HPC
+
 ![BeingGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeingGod&count_private=true&theme=dark)
