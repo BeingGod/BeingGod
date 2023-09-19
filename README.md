@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Currently DL Framework
+* Currently DL Framework & LLM
 * Previously AI Inference
 * Interested in HPC
 
