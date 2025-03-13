@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Currently MLSys & LLM
-* Previously AI Inference
+* Currently AI infra & LLM distributed training
+* Previously AI inference and deploy
 * Interested in HPC
 
 ![BeingGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeingGod&count_private=true&theme=dark)
